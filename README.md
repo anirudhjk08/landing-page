@@ -1,1 +1,2 @@
 # landing-page
+Working on this project and completing my flexbox and css foundation journey. I listened to music and with the completion of this project, I got confidence about my learnings in this course. I never felt boring while doing this and strengthen my fundamentals of flexbox and other css properties.
